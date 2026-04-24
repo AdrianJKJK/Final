@@ -2,11 +2,6 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/registration/
         </loc>
     </url>
@@ -18,11 +13,6 @@
     <url>
         <loc>
             http://localhost:8000/my-account/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/lost-password/
         </loc>
     </url>
     <url>
@@ -43,6 +33,26 @@
     <url>
         <loc>
             http://localhost:8000/products/sample-product-page/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/sculpting-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/printmaking-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/3d-diorama-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/charcoal-kit/
         </loc>
     </url>
     <url>
