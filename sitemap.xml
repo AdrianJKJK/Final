@@ -2,6 +2,36 @@
 <urlset>
     <url>
         <loc>
+            http://localhost:8000/painting-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/diorama-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/print-making-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/sculpting-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/charcoal-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/registration/
         </loc>
     </url>
@@ -53,6 +83,11 @@
     <url>
         <loc>
             http://localhost:8000/products/charcoal-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/uncategorized/
         </loc>
     </url>
     <url>

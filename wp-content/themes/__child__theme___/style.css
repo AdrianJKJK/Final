@@ -8,8 +8,8 @@ Template:       twentytwentytwo
 */
 :root {
   /* Creative Brain Palette */
-  --color: #00BFFF; /* Bright Cyan from the paint splashes */
-  --shadow: #4A00E0; /* Deep Indigo for the 3D shadow depth */
+  --color: #fdfeff; /* Bright Cyan from the paint splashes */
+  --shadow: #000000; /* Deep Indigo for the 3D shadow depth */
   --glare: hsl(0 0% 100% / 0.75);
   --font-size: 3rem;
   --transition: 0.2s;
