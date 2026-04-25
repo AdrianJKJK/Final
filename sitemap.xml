@@ -52,11 +52,6 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/thankyou/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/products/
         </loc>
     </url>
