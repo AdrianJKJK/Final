@@ -37,17 +37,7 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/login/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/my-account/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/membership-pricing/
         </loc>
     </url>
     <url>
